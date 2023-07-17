@@ -6,7 +6,7 @@
 
 ## contralti
 - Voce grave femminile
-  - contralto <br> contralto 2 <br> contralto 3
+  - contralto \\ contralto 2 \\ contralto 3
 
 ## tenori
 - Voce acuta maschile
