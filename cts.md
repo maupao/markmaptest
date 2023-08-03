@@ -1,17 +1,21 @@
 ---
 maxWidth: 300
 style: strong{color:red}
-title: Spazi web del CTS di Lecco
+title: Attività CTS e scuola polo inclusione Lecco
 ---
 
 [Vedi il testo come mappa](https://mymarkmap.netlify.app/#https://github.com/maupao/markmaptest/blob/main/cts.md)
 
 # Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
 
+## azioni di mantenimento<!--fold-->
+  - aspetto tecnico
+  - aspetto dei contenuti
+
 ## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
   - informazioni su iniziative
   - informazioni su software
-  - autoformazione
+  - raccolta delle risorse per autoformazione
   - risorse
   - punto di ingresso per altre risorse on-line
 
@@ -33,13 +37,45 @@ title: Spazi web del CTS di Lecco
     - sperimentazioni per traduzione storyweaver
 
 ## [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
-  - piattaforma di raccolta di attività costruite con LUMI
+  - piattaforma di raccolta di attività costruite con LUMI/H5P
   - sperimentale, accesso solo ad alcuni docenti previa formazione
 
 ## [Wiki](https://www.cts-lecco.it/wiki)<!--fold-->
   - a supporto delle attività del bando ausili
-    - raccolta normativa
+    - raccolta della normativa dei bandi
+    - 
 
 ## [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
   - a supporto delle attività di sperimentazione \\ e traduzione di Grid Asterics
 
+## gruppi mail<!--fold-->
+### inclusion@cts-lecco.it
+  - per tenere in contatto i referenti inclusione delle scuole della provincia
+  - accompagnamento delle informazioni ufficiali
+  - luogo di confronto riguardo le tematiche dell'inclusione
+  - gestione iscritti
+### gruppolavoroinclusione@cts-lecco.it
+  - il gruppo di lavoro a sostegno della scuola polo dell'inclusione
+### glhp@cts-lecco.it
+  - per tenere in contatto i componenti del GLHP
+### indipotedns@cts-lecco.it
+  - comprende i case manager delle scuole che stanno conducendo la sperimentazione
+### asterics@cts-lecco.it
+  - a supporto del lavoro di testing e traduzione di Grid Asterics
+### retects@googlegroups.com
+  - operatori dei CTS di Italia
+  - gruppo informale
+
+## Bando ausili<!--fold-->
+  - consulenza e accompagnamento delle scuole per la stesura dei progetti (settembre/ottobre 2023)
+  - valutazione dei progetti (novembre 2023, commissione regionale e sottocommissione provinciale)
+  - preparazione ordini a fronte della pubblicazione della graduatoria (da gennaio 2024)
+  - acquisti del materiale (da gennaio 2024)
+  - registrazione del materiale arrivato nel catalogo del CTS
+  - registrazione/aggiornamento e gestione degli ausili di tutte le annualità nella piattaforma nazionale
+  - eventuali configurazioni di dispositivi (notebook, tablet, software)
+  - consegna in comodato d'uso con eventuali azioni di supporto/accompagnamento
+    - presa di contatto con l'insegnante referente del progetto
+    - redazione e conservazione dei documenti del comodato
+    - accordo per la consegna (presso sede del CTS o in altro luogo concordato)
+  - ritiro delle eventuali restituzioni di comodato d'uso scaduti
