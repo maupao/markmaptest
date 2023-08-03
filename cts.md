@@ -8,14 +8,14 @@ title: Spazi web del CTS di Lecco
 
 # Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
 
-## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:
-  - informazioni su iniziative<!--fold-->
+## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
+  - informazioni su iniziative
   - informazioni su software
   - autoformazione
   - risorse
   - punto di ingresso per altre risorse on-line
 
-## [piattaforma per formazione/raccolta materiali](https://www.cts-lecco.it/moodle/)
+## [piattaforma per formazione/raccolta materiali](https://www.cts-lecco.it/moodle/)<!--fold-->
   - referenti sostegno sul nuovo PEI
   - neo assunti, laboratorio BES
   - Indipote(dn)s, materiali a supporto dei case manager
@@ -27,20 +27,19 @@ title: Spazi web del CTS di Lecco
     - Lumi education
     - La digitale
 
-## [Laboratorio](https://www.cts-lecco.it/laboratorio)
+## [Laboratorio](https://www.cts-lecco.it/laboratorio)<!--fold-->
   - wiki per annotare idee, spunti di lavoro
     - procedure per avvio nuovi pc
     - sperimentazioni per traduzione storyweaver
 
-## [Strumenti](https://www.cts-lecco.it/strumenti)
+## [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
   - piattaforma di raccolta di attività costruite con LUMI
   - sperimentale, accesso solo ad alcuni docenti previa formazione
 
-## [Wiki](https://www.cts-lecco.it/wiki)
+## [Wiki](https://www.cts-lecco.it/wiki)<!--fold-->
   - a supporto delle attività del bando ausili
     - raccolta normativa
 
-## [Asterics](https://www.cts-lecco.it/asterics)
-  - a supporto delle attività di sperimentazione\\
-    e traduzione di Grid Asterics
+## [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
+  - a supporto delle attività di sperimentazione \\ e traduzione di Grid Asterics
 
