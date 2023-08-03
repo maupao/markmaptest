@@ -45,7 +45,7 @@ title: Attività CTS e scuola polo inclusione Lecco
     - raccolta della normativa dei bandi
     - 
 
-## [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
+## sperimentazione [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
   - a supporto delle attività di sperimentazione \\ e traduzione di Grid Asterics
 
 ## gruppi mail<!--fold-->
