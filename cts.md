@@ -6,11 +6,11 @@ title: Attività CTS e scuola polo inclusione Lecco
 
 [Vedi il testo come mappa](https://mymarkmap.netlify.app/#https://github.com/maupao/markmaptest/blob/main/cts.md)
 
-# Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
+# Attività scuola polo inclusione e [CTS di Lecco](https://www.cts-lecco.it)
 
-## azioni di mantenimento<!--fold-->
+## azioni di mantenimento spazi web<!--fold-->
   - aspetto tecnico
-  - aspetto dei contenuti
+  - aspetto di inserimento dei contenuti
 
 ## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
   - informazioni su iniziative
@@ -31,14 +31,14 @@ title: Attività CTS e scuola polo inclusione Lecco
     - Lumi education
     - La digitale
 
+## [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
+  - piattaforma di raccolta di attività costruite con LUMI/H5P
+  - sperimentale, accesso solo ad alcuni docenti previa formazione
+
 ## [Laboratorio](https://www.cts-lecco.it/laboratorio)<!--fold-->
   - wiki per annotare idee, spunti di lavoro
     - procedure per avvio nuovi pc
     - sperimentazioni per traduzione storyweaver
-
-## [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
-  - piattaforma di raccolta di attività costruite con LUMI/H5P
-  - sperimentale, accesso solo ad alcuni docenti previa formazione
 
 ## [Wiki](https://www.cts-lecco.it/wiki)<!--fold-->
   - a supporto delle attività del bando ausili
@@ -79,3 +79,29 @@ title: Attività CTS e scuola polo inclusione Lecco
     - redazione e conservazione dei documenti del comodato
     - accordo per la consegna (presso sede del CTS o in altro luogo concordato)
   - ritiro delle eventuali restituzioni di comodato d'uso scaduti
+
+## Sportello autismo<!--fold-->
+### gestione ordinaria
+  - selezione operatori
+  - monitoraggio attività degli operatori
+  - aggiornamento documenti relativi all'avvio delle consulenze
+  - contatto con la rete nazionale degli sportelli autismo
+  - gestione prestito libri autismo
+### Rete blu
+  - collegamento con gli altri sportelli della regione (gruppo mail coordinamento@lareteblu.it)
+  - iniziativa del 2 aprile
+    - raccolta dei contributi
+    - pubblicazione dei contributi
+    - 2022 Vivo in blu
+    - 2023 Note in blu
+  - gestione sito internet [Lareteblu.it](https://www.lareteblu.it/sito)
+  - gestione tecnica [piattaforma elearning](https://moodle.lareteblu.it)
+
+## Scuola polo inclusione
+### coordinamento del tavolo di lavoro
+### organizzazione giornata dell'inclusione
+  - 2019 Cernusco Lombardone
+  - 2022 Missaglia
+  - 2023 Oggiono (Bachelet)
+### formazione
+  - formazione referenti sul PEI
