@@ -9,7 +9,7 @@ title: Spazi web del CTS di Lecco
 # Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
 
 ## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:
-  - informazioni su iniziative
+  - informazioni su iniziative<!--fold-->
   - informazioni su software
   - autoformazione
   - risorse
