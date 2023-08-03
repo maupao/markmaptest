@@ -97,7 +97,7 @@ title: Attività CTS e scuola polo inclusione Lecco
   - gestione sito internet [Lareteblu.it](https://www.lareteblu.it/sito)
   - gestione tecnica [piattaforma elearning](https://moodle.lareteblu.it)
 
-## Scuola polo inclusione<!--flod-->
+## Scuola polo inclusione<!--fold-->
 ### coordinamento del tavolo di lavoro
 ### organizzazione giornata dell'inclusione
   - 2019 Cernusco Lombardone
