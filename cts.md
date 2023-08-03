@@ -1,6 +1,8 @@
+[Vedi il testo come mappa](https://mymarkmap.netlify.app/#https://github.com/maupao/markmaptest/blob/main/cts.md)
+
 # Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
 
-## [sito ufficiale](https://www.cts-lecco.it)/
+## [sito ufficiale](https://www.cts-lecco.it)\\
   serve per:
   - informazioni su iniziative
   - informazioni su software
@@ -34,5 +36,6 @@
     - raccolta normativa
 
 ## [Asterics](https://www.cts-lecco.it/asterics)
-  - a supporto delle attività di sperimentazione e traduzione di Grid Asterics
+  - a supporto delle attività di sperimentazione\\
+    e traduzione di Grid Asterics
 
