@@ -1,8 +1,14 @@
+---
+maxWidth: 300
+style: strong{color:red}
+title: Spazi web del CTS di Lecco
+---
+
 [Vedi il testo come mappa](https://mymarkmap.netlify.app/#https://github.com/maupao/markmaptest/blob/main/cts.md)
 
 # Spazi web del [CTS di Lecco](https://www.cts-lecco.it)
 
-## [sito ufficiale](https://www.cts-lecco.it) \\ serve per:
+## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:
   - informazioni su iniziative
   - informazioni su software
   - autoformazione
