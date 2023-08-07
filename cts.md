@@ -8,11 +8,7 @@ title: Attività CTS e scuola polo inclusione Lecco
 
 # Attività scuola polo inclusione e [CTS di Lecco](https://www.cts-lecco.it)
 
-## azioni di mantenimento spazi web<!--fold-->
-  - aspetto tecnico
-  - aspetto di inserimento dei contenuti
-
-## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
+## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:
   - informazioni su iniziative
   - informazioni su software
   - raccolta delle risorse per autoformazione
@@ -47,6 +43,10 @@ title: Attività CTS e scuola polo inclusione Lecco
 
 ## sperimentazione [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
   - a supporto delle attività di sperimentazione \\ e traduzione di Grid Asterics
+
+## azioni di mantenimento spazi web<!--fold-->
+  - aspetto tecnico
+  - aspetto di inserimento dei contenuti
 
 ## gruppi mail<!--fold-->
 ### inclusion@cts-lecco.it
