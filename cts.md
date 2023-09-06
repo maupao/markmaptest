@@ -24,7 +24,7 @@ title: Attività CTS e scuola polo inclusione Lecco
   - ritiro delle eventuali restituzioni di comodato d'uso scaduti
    - revisione del materiale restituito (pulizia, aggiornamento device/software)
 
-## Spazi web
+## Spazi web<!--fold-->
 
 ### [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
   - informazioni su iniziative
