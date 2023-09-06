@@ -17,12 +17,12 @@ title: Attività CTS e scuola polo inclusione Lecco
   - registrazione/aggiornamento e gestione degli ausili di tutte le annualità nella piattaforma nazionale
   - configurazioni di dispositivi (notebook, tablet): prima accensione, installazione programmi, aggiornamento dei software
   - predisposizione uso di software (creazioni account e attivazioni)
-  - consegna in comodato d'uso con eventuali azioni di supporto/accompagnamento
+  - consegna in comodato d'uso con eventuali azioni di supporto/accompagnamento<!--fold-->
     - presa di contatto con l'insegnante referente del progetto
     - redazione e conservazione dei documenti del comodato
     - accordo per la consegna (presso sede del CTS o in altro luogo concordato)
   - ritiro delle eventuali restituzioni di comodato d'uso scaduti
-   - revisione del materiale restituito (pulizia, aggiornamento device/software)
+    - revisione del materiale restituito (pulizia, aggiornamento device/software)
 
 ## Spazi web<!--fold-->
 
