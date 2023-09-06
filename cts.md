@@ -8,14 +8,32 @@ title: Attività CTS e scuola polo inclusione Lecco
 
 # Attività scuola polo inclusione e [CTS di Lecco](https://www.cts-lecco.it)
 
-## [sito ufficiale](https://www.cts-lecco.it) <br> serve per:
+## Bando ausili
+  - consulenza e accompagnamento delle scuole per la stesura dei progetti (settembre/ottobre 2023)
+  - valutazione dei progetti (novembre 2023, commissione regionale e sottocommissione provinciale)
+  - preparazione ordini a fronte della pubblicazione della graduatoria (da gennaio 2024)
+  - acquisti del materiale (da gennaio 2024)
+  - registrazione del materiale arrivato nel catalogo del CTS
+  - registrazione/aggiornamento e gestione degli ausili di tutte le annualità nella piattaforma nazionale
+  - configurazioni di dispositivi (notebook, tablet): prima accensione, installazione programmi, aggiornamento dei software
+  - predisposizione uso di software (creazioni account e attivazioni)
+  - consegna in comodato d'uso con eventuali azioni di supporto/accompagnamento
+    - presa di contatto con l'insegnante referente del progetto
+    - redazione e conservazione dei documenti del comodato
+    - accordo per la consegna (presso sede del CTS o in altro luogo concordato)
+  - ritiro delle eventuali restituzioni di comodato d'uso scaduti
+   - revisione del materiale restituito (pulizia, aggiornamento device/software)
+
+## Spazi web
+
+### [sito ufficiale](https://www.cts-lecco.it) <br> serve per:<!--fold-->
   - informazioni su iniziative
   - informazioni su software
   - raccolta delle risorse per autoformazione
-  - risorse
+  - risorse divise per tipologia di disabilità
   - punto di ingresso per altre risorse on-line
 
-## [piattaforma per formazione/raccolta materiali](https://www.cts-lecco.it/moodle/)<!--fold-->
+### [piattaforma per formazione/raccolta materiali](https://www.cts-lecco.it/moodle/)<!--fold-->
   - referenti sostegno sul nuovo PEI
   - neo assunti, laboratorio BES
   - Indipote(dn)s, materiali a supporto dei case manager
@@ -27,24 +45,24 @@ title: Attività CTS e scuola polo inclusione Lecco
     - Lumi education
     - La digitale
 
-## [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
+### [Strumenti](https://www.cts-lecco.it/strumenti)<!--fold-->
   - piattaforma di raccolta di attività costruite con LUMI/H5P
   - sperimentale, accesso solo ad alcuni docenti previa formazione
 
-## [Laboratorio](https://www.cts-lecco.it/laboratorio)<!--fold-->
+### [Laboratorio](https://www.cts-lecco.it/laboratorio)<!--fold-->
   - wiki per annotare idee, spunti di lavoro
     - procedure per avvio nuovi pc
     - sperimentazioni per traduzione storyweaver
 
-## [Wiki](https://www.cts-lecco.it/wiki)<!--fold-->
+### [Wiki](https://www.cts-lecco.it/wiki)<!--fold-->
   - a supporto delle attività del bando ausili
     - raccolta della normativa dei bandi
     - 
 
-## sperimentazione [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
+### sperimentazione [Asterics](https://www.cts-lecco.it/asterics)<!--fold-->
   - a supporto delle attività di sperimentazione \\ e traduzione di Grid Asterics
 
-## azioni di mantenimento spazi web<!--fold-->
+### azioni di mantenimento spazi web<!--fold-->
   - aspetto tecnico
   - aspetto di inserimento dei contenuti
 
@@ -66,19 +84,14 @@ title: Attività CTS e scuola polo inclusione Lecco
   - operatori dei CTS di Italia
   - gruppo informale
 
-## Bando ausili<!--fold-->
-  - consulenza e accompagnamento delle scuole per la stesura dei progetti (settembre/ottobre 2023)
-  - valutazione dei progetti (novembre 2023, commissione regionale e sottocommissione provinciale)
-  - preparazione ordini a fronte della pubblicazione della graduatoria (da gennaio 2024)
-  - acquisti del materiale (da gennaio 2024)
-  - registrazione del materiale arrivato nel catalogo del CTS
-  - registrazione/aggiornamento e gestione degli ausili di tutte le annualità nella piattaforma nazionale
-  - eventuali configurazioni di dispositivi (notebook, tablet, software)
-  - consegna in comodato d'uso con eventuali azioni di supporto/accompagnamento
-    - presa di contatto con l'insegnante referente del progetto
-    - redazione e conservazione dei documenti del comodato
-    - accordo per la consegna (presso sede del CTS o in altro luogo concordato)
-  - ritiro delle eventuali restituzioni di comodato d'uso scaduti
+## Scuola polo inclusione<!--fold-->
+### coordinamento del tavolo di lavoro
+### organizzazione giornata dell'inclusione
+  - 2019 Cernusco Lombardone
+  - 2022 Missaglia
+  - 2023 Oggiono (Bachelet)
+### formazione
+  - formazione referenti sul PEI
 
 ## Sportello autismo<!--fold-->
 ### gestione ordinaria
@@ -97,11 +110,3 @@ title: Attività CTS e scuola polo inclusione Lecco
   - gestione sito internet [Lareteblu.it](https://www.lareteblu.it/sito)
   - gestione tecnica [piattaforma elearning](https://moodle.lareteblu.it)
 
-## Scuola polo inclusione<!--fold-->
-### coordinamento del tavolo di lavoro
-### organizzazione giornata dell'inclusione
-  - 2019 Cernusco Lombardone
-  - 2022 Missaglia
-  - 2023 Oggiono (Bachelet)
-### formazione
-  - formazione referenti sul PEI
