@@ -83,6 +83,9 @@ title: Attività CTS e scuola polo inclusione Lecco
 ### retects@googlegroups.com
   - operatori dei CTS di Italia
   - gruppo informale
+### Newsletter del CTS
+  - 115 iscritti
+  - divulga le notizie che riguardano il CTS \\ e le iniziative del territorio legate alla disabilità
 
 ## Scuola polo inclusione<!--fold-->
 ### coordinamento del tavolo di lavoro
