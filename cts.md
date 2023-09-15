@@ -102,7 +102,7 @@ title: Attività CTS e scuola polo inclusione Lecco
   - monitoraggio attività degli operatori
   - aggiornamento documenti relativi all'avvio delle consulenze
   - contatto con la rete nazionale degli sportelli autismo
-  - gestione prestito libri autismo
+  - gestione prestito libri autismo \\ [Piattaforma Inventaire](https://inventaire.io/users/ctslecco)
 ### Rete blu
   - collegamento con gli altri sportelli della regione (gruppo mail coordinamento@lareteblu.it)
   - iniziativa del 2 aprile
